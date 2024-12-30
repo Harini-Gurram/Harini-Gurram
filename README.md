@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harini-Gurram
-- 👀 I’m interested in mobile app development using flutter and java
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on various app development projects
+- 👀 I’m interested in web development using Javascript and React.js
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on various web development projects
 - 📫 How to reach me through LinkedIn
 
 <!---
